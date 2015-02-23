@@ -1,0 +1,14 @@
+60585K18 = Linear Bearing for T-Slotted Framing for 1" Width Rail, Side-Mount, 1-7/8" Length
+
+8020-$partnumber = rollerslide
+
+
+1.88" = from bottom of frame to floor
+
+0.157in slide block end to end of rail
+.812" end of slide block to rail
+
+
+recycling_rotate_plate.prt
+recycling_rotate_weldment.asm
+recycling_rotate_tube.prt
